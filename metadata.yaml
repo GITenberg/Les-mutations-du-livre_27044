@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Electronic books'
 - !lcc 'Z'
+- GITenberg
 title: Les mutations du livre
 url: http://www.gutenberg.org/ebooks/27044
